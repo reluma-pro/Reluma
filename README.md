@@ -9,7 +9,7 @@ Reluma is a Windows deleted-file recovery application designed to help you locat
 
 With read-only source access, recovery condition ratings, and verification after restoration, Reluma provides a controlled recovery workflow that keeps you in charge.
 
-[DOWNLOAD](https://github.com/fastsolutionsllc/Reluma/raw/refs/heads/main/Installer/Reluma-Setup-1.0.0.exe)
+[DOWNLOAD](https://github.com/reluma-pro/Reluma/raw/refs/heads/main/Installer/Reluma-Setup-1.0.0.exe)
 
 ---
 
